@@ -1,21 +1,19 @@
 # Finance & Business Analysis Portfolio
 
-Welcome!
-
 I'm Jahnvi Bhateja, an Economics postgraduate passionate about understanding businesses through financial statements, annual reports, and economic data.
 
 This repository documents my journey of developing practical finance skills through real-world business analysis.
 
 ## What you'll find here
 
-> Annual Report Analysis
-> Financial Statement Analysis
-> FP&A Dashboards
-> Industry Analysis
-> Business Case Studies
-> Finance Writing
-> Economic Insights
-> Excel & Power BI Projects
+- > Annual Report Analysis
+- > Financial Statement Analysis
+- > FP&A Dashboards
+- > Industry Analysis
+- > Business Case Studies
+- > Finance Writing
+- > Economic Insights
+- > Excel & Power BI Projects
 
 ## Objective
 
