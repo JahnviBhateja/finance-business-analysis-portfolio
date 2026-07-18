@@ -99,7 +99,37 @@ Nykaa delivered another year of strong financial performance in FY2024–25, rec
 - The addition of **50 new stores** strengthened Nykaa's omnichannel strategy while expanding its presence across India.
 
 - GMV crossed **₹15,600 crore**, reflecting continued growth in transaction value across the platform.
+
+### What the Numbers Tell Us
+
+The financial results indicate that Nykaa is entering a phase where profitability is improving alongside business expansion. While revenue growth remained strong at 24%, EBITDA and Profit After Tax grew at a much faster pace. This suggests that the company is becoming more efficient in managing its operating costs while continuing to scale.
+
+The increase in active customers and total orders reflects sustained demand for Nykaa's products and services. At the same time, the addition of 50 new stores demonstrates the company's commitment to strengthening its omnichannel strategy rather than relying solely on online sales.
+
+Growth in Gross Merchandise Value (GMV) further indicates that customers are spending more on the platform, supported by a broader product portfolio and increasing demand for premium beauty products.
+
+Overall, the financial performance suggests that Nykaa is not only expanding its business but also improving the quality of its earnings, making its growth more sustainable over the long term.
   
-## Risks
+## Risks Analysis
+
+Despite its strong growth, Nykaa faces several challenges that could affect its future performance.
+
+### Key Risks
+
+- **Intense competition:** General e-commerce platforms such as Amazon and Flipkart, along with beauty-focused competitors, continue to compete aggressively on pricing, convenience, and product offerings.
+
+- **Dependence on consumer spending:** A slowdown in discretionary spending could reduce demand for premium beauty and fashion products.
+
+- **Execution risk:** Rapid expansion of physical stores requires efficient inventory management and operational execution to maintain profitability.
+
+- **Dependence on brand partnerships:** Any deterioration in relationships with major domestic or international brands could impact product availability and customer choice.
+
+- **Changing consumer preferences:** Beauty and fashion trends evolve rapidly, requiring continuous innovation and adaptation.
 
 ## Conclusion
+
+Nykaa has successfully established itself as one of India's leading beauty and lifestyle retailers by combining a focused business strategy with an integrated omnichannel model. The company has demonstrated strong revenue growth, expanding profitability, and consistent customer acquisition while continuing to invest in its physical retail network and technology capabilities.
+
+Its diversified revenue streams, growing portfolio of private-label brands, and strong brand recognition provide a competitive advantage in a rapidly expanding beauty market. At the same time, the company must continue to manage competitive pressures, changing consumer preferences, and the operational challenges associated with rapid expansion.
+
+Overall, Nykaa appears well-positioned to sustain long-term growth, provided it continues to balance expansion with profitability and maintains its focus on customer experience and innovation.
