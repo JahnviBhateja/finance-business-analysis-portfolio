@@ -116,18 +116,23 @@ Overall, the financial performance suggests that Nykaa is not only expanding its
 
 Nykaa reported revenue of ₹7,950 crore in FY2024–25, representing a 24% year-on-year increase.
 
-### EBITDA vs PAT
+### Profitability
 
-(Chart)
+![Profitability](images/profitability.png)
+
+EBITDA increased to **₹474 crore**, while Profit After Tax reached **₹72 crore**. The faster growth in profitability relative to revenue suggests improving operational efficiency and stronger cost management.
 
 ### Customer Growth
 
-(Chart)
+![Customer Growth](images/customer-growth.png)
 
-### Store Expansion
+Nykaa served **24 million active customers** and processed **62.2 million orders** during FY2024–25, indicating sustained customer engagement and repeat purchasing behaviour.
 
-(Chart)
-  
+### Retail Expansion
+
+![Retail Expansion](images/store-expansion.png)
+
+The company expanded its physical footprint to **237 stores**, adding **50 new stores** during the year. This reinforces Nykaa's omnichannel strategy by combining online convenience with offline customer experience.
 ## Risks Analysis
 
 Despite its strong growth, Nykaa faces several challenges that could affect its future performance.
