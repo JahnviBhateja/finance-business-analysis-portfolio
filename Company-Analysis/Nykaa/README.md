@@ -124,7 +124,7 @@ EBITDA increased to **₹474 crore**, while Profit After Tax reached **₹72 cro
 
 ### Customer Growth
 
-![Customer Growth](images/customer-growth.png)
+![Customer Growth](images/customer-Growth.png)
 
 Nykaa served **24 million active customers** and processed **62.2 million orders** during FY2024–25, indicating sustained customer engagement and repeat purchasing behaviour.
 
