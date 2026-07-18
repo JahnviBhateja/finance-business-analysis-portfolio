@@ -126,6 +126,45 @@ Despite its strong growth, Nykaa faces several challenges that could affect its 
 
 - **Changing consumer preferences:** Beauty and fashion trends evolve rapidly, requiring continuous innovation and adaptation.
 
+## Investment Thesis
+
+The following factors support Nykaa's long-term growth potential:
+
+- **Leadership in a high-growth industry:** India's beauty and personal care market continues to expand due to rising disposable incomes, premiumisation, and increasing digital adoption.
+
+- **Diversified business model:** Revenue from online retail, offline stores, private-label brands, and B2B distribution reduces dependence on a single business segment.
+
+- **Improving profitability:** EBITDA and Profit After Tax are growing faster than revenue, indicating improving operational efficiency.
+
+- **Strong customer ecosystem:** A growing customer base, high order volumes, and an expanding store network strengthen customer loyalty and support future growth.
+
+## SWOT Analysis
+
+| Strengths | Weaknesses |
+|------------|------------|
+| Strong brand recognition in beauty retail | Fashion business remains less dominant than beauty |
+| Omnichannel presence | High dependence on discretionary consumer spending |
+| Wide portfolio of domestic and global brands | Continued investment required for store expansion |
+| Growing private-label brands | Lower margins compared to pure premium brands |
+
+| Opportunities | Threats |
+|---------------|---------|
+| Growth of India's beauty industry | Intense competition from Amazon, Flipkart and other beauty retailers |
+| Rising premium beauty demand | Rapidly changing consumer preferences |
+| Expansion into Tier-II and Tier-III cities | Economic slowdown affecting discretionary spending |
+| Growth of AI-powered customer experience | Price competition and discounting |
+
+
+## Porter's Five Forces
+
+| Force | Impact | Analysis |
+|-------|--------|----------|
+| Competitive Rivalry | High | Competition from Amazon, Flipkart, Myntra, Purplle and emerging D2C brands. |
+| Threat of New Entrants | Medium | Building customer trust, logistics, and brand partnerships requires significant investment. |
+| Bargaining Power of Suppliers | Medium | Global beauty brands have influence, but Nykaa's scale provides negotiating power. |
+| Bargaining Power of Customers | High | Customers can easily compare prices and switch between online platforms. |
+| Threat of Substitutes | Medium | Offline beauty retailers, brand-owned websites, and other e-commerce platforms provide alternatives. |
+
 ## Conclusion
 
 Nykaa has successfully established itself as one of India's leading beauty and lifestyle retailers by combining a focused business strategy with an integrated omnichannel model. The company has demonstrated strong revenue growth, expanding profitability, and consistent customer acquisition while continuing to invest in its physical retail network and technology capabilities.
@@ -133,3 +172,5 @@ Nykaa has successfully established itself as one of India's leading beauty and l
 Its diversified revenue streams, growing portfolio of private-label brands, and strong brand recognition provide a competitive advantage in a rapidly expanding beauty market. At the same time, the company must continue to manage competitive pressures, changing consumer preferences, and the operational challenges associated with rapid expansion.
 
 Overall, Nykaa appears well-positioned to sustain long-term growth, provided it continues to balance expansion with profitability and maintains its focus on customer experience and innovation.
+
+
