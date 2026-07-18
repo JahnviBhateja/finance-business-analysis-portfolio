@@ -1,15 +1,17 @@
-# Nykaa Analysis
+# Nykaa: Can Profitable Growth Continue?
 
-> **Status:** In Progress
+## Executive Summary
 
-## Objective
+## Business Overview
 
-To understand Nykaa's business model, financial performance, competitive position, and future growth using its annual report and other public information.
+## Business Model
 
-## Questions I want this project to answer
+## Competitive Advantages
 
-- What does Nykaa do?
-- How does Nykaa make money?
-- Why has the company grown so quickly?
-- Can Nykaa continue growing profitably?
-- What are the biggest risks to the business?
+## Growth Drivers
+
+## Financial Analysis
+
+## Risks
+
+## Conclusion
