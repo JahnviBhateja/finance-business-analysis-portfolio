@@ -197,3 +197,17 @@ Its diversified revenue streams, growing portfolio of private-label brands, and 
 Overall, Nykaa appears well-positioned to sustain long-term growth, provided it continues to balance expansion with profitability and maintains its focus on customer experience and innovation.
 
 
+## Sources & References
+
+This analysis is based on publicly available information, including:
+
+1. Nykaa Integrated Annual Report FY2024–25
+2. Nykaa Investor Relations and Corporate Filings
+3. Company website and public disclosures
+4. National Stock Exchange (NSE) and Bombay Stock Exchange (BSE) filings, where applicable
+
+### Methodology
+
+This report combines qualitative business analysis with financial statement interpretation. The objective is to evaluate Nykaa's business model, competitive positioning, growth strategy, financial performance, and long-term prospects using publicly available information.
+
+
