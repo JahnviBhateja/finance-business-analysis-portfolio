@@ -109,6 +109,24 @@ The increase in active customers and total orders reflects sustained demand for 
 Growth in Gross Merchandise Value (GMV) further indicates that customers are spending more on the platform, supported by a broader product portfolio and increasing demand for premium beauty products.
 
 Overall, the financial performance suggests that Nykaa is not only expanding its business but also improving the quality of its earnings, making its growth more sustainable over the long term.
+
+### Revenue
+
+![Nykaa Revenue FY2024-25](images/revenue.png)
+
+Nykaa reported revenue of ₹7,950 crore in FY2024–25, representing a 24% year-on-year increase.
+
+### EBITDA vs PAT
+
+(Chart)
+
+### Customer Growth
+
+(Chart)
+
+### Store Expansion
+
+(Chart)
   
 ## Risks Analysis
 
