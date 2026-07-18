@@ -54,8 +54,52 @@ Nykaa has established a strong competitive position in India's beauty and lifest
 
 ## Growth Drivers
 
+Nykaa's growth is supported by expanding consumer demand, a diversified business model, and continuous investments in both digital and physical retail.
+
+### Key Growth Drivers
+
+- **Growing beauty market:** Rising disposable incomes, increasing beauty awareness, and higher spending on premium products continue to expand the addressable market.
+
+- **Expanding customer base:** Nykaa's cumulative customer base has grown significantly, supported by strong customer acquisition and repeat purchases.
+
+- **Retail expansion:** The company has rapidly expanded its physical presence across India, strengthening its omnichannel strategy and improving accessibility.
+
+- **Premiumisation:** Consumers are increasingly shifting towards premium beauty products, resulting in higher average spending per customer.
+
+- **Portfolio expansion:** Nykaa continues to introduce new domestic and international brands while strengthening its own private-label portfolio.
+
+- **Technology and AI:** The company is investing in AI-driven personalisation, customer recommendations, and digital experiences to improve customer engagement and retention.
+
+- **Omnichannel ecosystem:** By integrating online platforms, offline stores, and B2B distribution, Nykaa reaches customers through multiple channels while creating a consistent shopping experience.
+
 ## Financial Analysis
 
+Nykaa delivered another year of strong financial performance in FY2024–25, recording growth across revenue, profitability, customer acquisition, and retail expansion.
+
+| Metric | FY2024–25 | YoY Growth |
+|---------|----------:|-----------:|
+| Revenue | ₹7,950 Cr | 24% |
+| EBITDA | ₹474 Cr | 37% |
+| Profit After Tax (PAT) | ₹72 Cr | 81% |
+| Gross Merchandise Value (GMV) | ₹15,604 Cr | 25% |
+| Number of Orders | 62.2 Million | 22% |
+| Active Customers | 24 Million | 28% |
+| Physical Stores | 237 | 50 new stores added |
+
+### Key Observations
+
+- Revenue grew by **24%**, indicating continued demand across Nykaa's business segments.
+
+- EBITDA increased faster than revenue, suggesting improvements in operating efficiency.
+
+- Profit After Tax increased by **81%**, significantly outpacing revenue growth and indicating stronger profitability.
+
+- Active customers increased by **28%**, demonstrating successful customer acquisition and retention.
+
+- The addition of **50 new stores** strengthened Nykaa's omnichannel strategy while expanding its presence across India.
+
+- GMV crossed **₹15,600 crore**, reflecting continued growth in transaction value across the platform.
+  
 ## Risks
 
 ## Conclusion
