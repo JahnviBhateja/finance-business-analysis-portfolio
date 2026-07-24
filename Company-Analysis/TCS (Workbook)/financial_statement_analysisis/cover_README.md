@@ -8,7 +8,7 @@
 Financial Statement Analysis • Financial Modeling • Forecasting • Ratio Analysis • Dashboarding
 </p>
 
-<img src="tcs_dashboard.png" width="100%">
+<img src="TCS_Dashboard.png" width="100%">
 
 </div>
 
@@ -37,7 +37,7 @@ The objective was to replicate the workflow of a Financial Analyst while demonst
 # 🖥 Dashboard
 
 <p align="center">
-<img src="tcs_dashboard.png" width="100%">
+<img src="TCS_Dashboard.png" width="100%">
 </p>
 
 ---
