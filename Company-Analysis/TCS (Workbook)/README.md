@@ -4,10 +4,10 @@ This directory contains financial analysis and valuation projects built using pu
 
 ## 📂 Projects
 
-| Project | Description | Status |
-|----------|-------------|:------:|
-| 📈 Financial Statement Analysis | Dynamic Excel financial model with historical statements, forecasting, ratio analysis, and an executive dashboard. Includes the `.xlsx` workbook and dashboard preview. | ✅ |
-| 💰 DCF Valuation | Intrinsic valuation model using FCFF, WACC, terminal value, sensitivity analysis, and valuation dashboard. | 🚧 |
+| Project | Description |
+|----------|-------------|
+| 📈 Financial Statement Analysis | Dynamic Excel financial model with historical statements, forecasting, ratio analysis, and an executive dashboard. Includes the `.xlsx` workbook and dashboard preview. |
+| 💰 DCF Valuation | Intrinsic valuation model using FCFF, WACC, terminal value, sensitivity analysis, and valuation dashboard. |
 
 ---
 
